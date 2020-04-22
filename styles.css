@@ -14,7 +14,7 @@ a:hover{color: #e3e3e4; text-decoration: none;}
   padding: 0px 0px;
   font-size: 16pt;
   background: black;
-  position:fixed;
+  position:relative;
   width:100%;
   top:0px;
 }
@@ -81,6 +81,7 @@ a:hover{color: #e3e3e4; text-decoration: none;}
 
 .dropdown {
   float: left;
+   overflow:hidden;
 }
 
 .dropdown .dropbtn {
@@ -139,7 +140,7 @@ body {
 }
 
 .main {
-padding-top:350px;
+padding-top:150px;
 margin: 10px;
 bottom: 0px;
 position: relative;
