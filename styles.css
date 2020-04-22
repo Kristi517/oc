@@ -257,7 +257,8 @@ text-align: left;
 
 #contact-address {
   margin-top: 250px;
-  margin-left: 250px;
+  margin-left: 80px;
+  margin-right: 50px;
 }
 
 .wp-caption {
