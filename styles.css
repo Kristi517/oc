@@ -179,7 +179,7 @@ color: black;
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 30px;
   column-gap: 30px;
   overflow: auto;
