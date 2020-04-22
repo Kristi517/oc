@@ -200,7 +200,10 @@ color: black;
 }
 
 .cell-4 {
-  text-align: left
+  text-align: left;
+  position: relative;
+  z-index: -1;
+  padding-top: 60px;
 }
 
 .cell-5 {
