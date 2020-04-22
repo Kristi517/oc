@@ -167,6 +167,7 @@ color: black;
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding-top: 30px;
+  margin: 20px;
   padding-bottom: 0px;
   column-gap: 0px;
   overflow: auto;
@@ -212,12 +213,14 @@ color: black;
   text-align: left;
   position: relative;
   padding-top: 30px;
+  margin: 20px;
 }
 
 .cell-5 {
 color: #00008b;
 text-align: left;
-margin-top: 10px;
+padding: 30px;
+margin: 20px;
 
 }
 
