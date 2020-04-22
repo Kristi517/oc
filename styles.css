@@ -14,7 +14,7 @@ a:hover{color: #e3e3e4; text-decoration: none;}
   padding: 0px 0px;
   font-size: 16pt;
   background: black;
-  position:relative;
+  position:fixed;
   width:100%;
   top:0px;
 }
