@@ -44,6 +44,7 @@ a:hover{color: #e3e3e4; text-decoration: none;}
   display: inline-block;
   position: relative;
   overflow: auto;
+  text-decoration: none;
 }
 
 .alertbar {
@@ -53,6 +54,7 @@ a:hover{color: #e3e3e4; text-decoration: none;}
   font-style: italic;
   width:100%;
   text-align: center;
+  text-decoration: none;
 }
 
 .navbar {
