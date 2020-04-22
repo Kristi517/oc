@@ -248,15 +248,15 @@ text-align: left;
 
 #contact-image {
   margin-top: 50px;
-  margin-bottom:30px;
+  margin-bottom:40px;
   display: inline-block;
   width: 150%;
   z-index: -1;
 }
 
 #contact-address {
-  margin-top: 75px;
-  margin-bottom: 30px;
+  margin-top: 80px;
+  margin-bottom: 40px;
   margin-left: 250px;
 }
 
