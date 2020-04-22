@@ -247,11 +247,11 @@ text-align: left;
 }
 
 #contact-image {
-  margin-top: 155px;
+  margin-top: 200px;
   margin-left: 0px;
-  margin-bottom: 80px;
+  margin-bottom: 20px;
   display: inline-block;
-  width: 80%;
+   position: relative;
   z-index: 500;
 }
 
